@@ -37,3 +37,4 @@ proj/
 └── output/
 ```
 
+Please install R Kernel in Jupyter Notebook to run the Project1 - Code file in the doc folder, which should give you analysis results as seen in the Project 1 - Presentation.html file. 
