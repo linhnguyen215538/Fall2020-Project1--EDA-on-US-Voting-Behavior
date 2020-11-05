@@ -26,6 +26,10 @@ In the project analysis, we will be using the American National Election Studies
 - What are some social and economics characteristics of white Americans who did or did not retain their affiliation?
 - What are some similarities, changes or outliers in the trends and stereotypes of certain demographic groups observed in existing research?
 
+### Installation Instructions: 
+Please install R Kernel in Jupyter Notebook to run the Project1 - Code file in the doc folder, which should give you analysis results as seen in the Project 1 - Presentation.html file. Detailed instructions in the following link: 
+https://irkernel.github.io/installation/
+
 This folder is orgarnized as follows.
 
 ```
@@ -37,4 +41,4 @@ proj/
 └── output/
 ```
 
-Please install R Kernel in Jupyter Notebook to run the Project1 - Code file in the doc folder, which should give you analysis results as seen in the Project 1 - Presentation.html file. 
+
